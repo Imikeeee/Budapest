@@ -1,0 +1,21 @@
+Konzolos asztali alkalmazásfejlesztés Java vagy C# nyelven mintafeladat
+Készitsen Budapest néven konzolos programot, ami az alábbi feladatokat oldja meg!
+
+1. Olvassa be és tárolja le a BP.CSV fáj| tartalmát! A megoldáshoz hozzon létre Kozterulet néven osztályt
+és hasnálja az adatok tárolására a következó adatszerkezetet! Az osztályban létrehozott adattagok,
+metódusok, konstruktorok, tulajdonságok tetszölegesen megálaszthatóak.
+List<Kozterulet› kozteruletek = new List<Kozterulet> ();
+Megjegyzés: Más adatszerkezettel is folytatható a feladat, de az pontvesztéssel jár!
+(4p)
+2. Irja ki hány közterület adatát tartalmazza az elsó feladatban beolvasott fájl!
+(1p)
+3. Hány közterület van a XIII. kerületben?
+(2p)
+4. Kérjen be egy irányítószámot és döntse el, hogy van-e ilyen irányítószám!
+(2p)
+5. Kérjen be konzolon egy szöveget, majd a mintának megfelelöen listázza ki az összes olyan közterület
+nevét és kerületét, aminek a neve a megadott szöveggel kezdödik!
+(3р)
+6. Kerületenként listázza ki, hogy hány tér van az adott kerületben! A lista a kerületek neve szerint
+rendezett legyen!
+(3р)

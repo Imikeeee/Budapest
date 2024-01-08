@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Documents\Budapest\bin\Debug\net8.0\Budapest.exe
+C:\Users\Lenovo\Documents\Budapest\bin\Debug\net8.0\Budapest.deps.json
+C:\Users\Lenovo\Documents\Budapest\bin\Debug\net8.0\Budapest.runtimeconfig.json
+C:\Users\Lenovo\Documents\Budapest\bin\Debug\net8.0\Budapest.dll
+C:\Users\Lenovo\Documents\Budapest\bin\Debug\net8.0\Budapest.pdb
+C:\Users\Lenovo\Documents\Budapest\obj\Debug\net8.0\Budapest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Budapest\obj\Debug\net8.0\Budapest.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Budapest\obj\Debug\net8.0\Budapest.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Budapest\obj\Debug\net8.0\Budapest.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Budapest\obj\Debug\net8.0\Budapest.dll
+C:\Users\Lenovo\Documents\Budapest\obj\Debug\net8.0\refint\Budapest.dll
+C:\Users\Lenovo\Documents\Budapest\obj\Debug\net8.0\Budapest.pdb
+C:\Users\Lenovo\Documents\Budapest\obj\Debug\net8.0\Budapest.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Budapest\obj\Debug\net8.0\ref\Budapest.dll
